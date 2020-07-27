@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "57170CA1-CFC9-4D9F-9AC0-5B335C0645A0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBDBE2A0-463D-4E2F-BC6C-30F21E1A9C9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetWorkDemo/SessionWork.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "+getDataFromURL:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FBDBE2A0-463D-4E2F-BC6C-30F21E1A9C9B - ebfb00e9780ec03d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[SessionWork getDataFromURL:]"
+                  moduleName = "NetWorkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/bdwork/train/IOSPractice/NetWorkDemo/NetWorkDemo/SessionWork.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  uuid = "FBDBE2A0-463D-4E2F-BC6C-30F21E1A9C9B - 5e6f830b652c5bb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30+[SessionWork getDataFromURL:]_block_invoke"
+                  moduleName = "NetWorkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/bdwork/train/IOSPractice/NetWorkDemo/NetWorkDemo/SessionWork.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FBDBE2A0-463D-4E2F-BC6C-30F21E1A9C9B - 1fe912259dffd96a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_e8_32s40r"
+                  moduleName = "NetWorkDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/bdwork/train/IOSPractice/NetWorkDemo/NetWorkDemo/SessionWork.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
